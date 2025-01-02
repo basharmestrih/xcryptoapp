@@ -21,44 +21,6 @@ Built With
 - Coinbase API: Fetching live cryptocurrency price data.
 - Bloc: State management for seamless UI updates.
 
-create description on github for this app: its name is xcrypto it has 3 screens one for reading crypto prices and saving currencies to user favourtie list and one for reading news and one for videos and courses about crypto and users can create accounts
-Here's a description for your GitHub repository:
-
-xCrypto
-xCrypto is a comprehensive app for cryptocurrency enthusiasts. It offers real-time crypto prices, curated news, and educational content in the form of videos and courses. Users can create accounts to save their favorite currencies and stay updated with the latest trends in the crypto world.
-
-Features
-Crypto Prices:
-
-Real-time cryptocurrency prices.
-
-Ability to save currencies to a personalized favorites list.
-
-News:
-
-Stay updated with the latest news and articles about cryptocurrencies and the blockchain industry.
-
-Videos & Courses:
-
-Access a wide range of videos and courses to learn more about cryptocurrencies, trading strategies, and blockchain technology.
-
-User Accounts:
-
-Create and manage user accounts to personalize your experience.
-
-Screens
-Crypto Prices Screen:
-
-View and save real-time prices of various cryptocurrencies.
-
-News Screen:
-
-Read the latest news and articles about the crypto market.
-
-Videos & Courses Screen:
-
-Browse and watch educational content about cryptocurrencies.
-
 Installation
 Instructions on how to install and run the application.
 # Clone the repository
@@ -74,6 +36,3 @@ flutter pub get
 flutter run
 
 
----
-
-This streamlined version keeps the essential details while removing the extras.
