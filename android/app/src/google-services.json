@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679581527752",
+    "project_id": "crypto-matata",
+    "storage_bucket": "crypto-matata.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679581527752:android:d23c2938b4357170d9bffd",
+        "android_client_info": {
+          "package_name": "com.bashdev.cryptotracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTL-HL7V6NP91jAWl7uDb6sWhKqo0tzhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
