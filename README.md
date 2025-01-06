@@ -1,10 +1,4 @@
-![news](https://github.com/user-attachments/assets/c2cada21-499e-423f-90ec-0ec473f06c7a)
-![login](https://github.com/user-attachments/assets/cb6583f2-783c-4f4c-bb36-12c96e8ad962)
-![home](https://github.com/user-attachments/assets/d360800d-90d5-450f-8872-477abca4bfb0)
-![details](https://github.com/user-attachments/assets/d9bb8df2-7192-4445-b93e-216702df9375)
-![converter](https://github.com/user-attachments/assets/75d68c8c-2432-4781-9652-4014c14e04be)
-![all](https://github.com/user-attachments/assets/d989104b-28fb-4d21-b17f-943442c73b8b)
-XCrypto
+![Webp net-resizeimage](https://github.com/user-attachments/assets/fa34ffac-1c1e-4776-a2a0-b766f5db0e49)
 
 XCrypto is a modern Flutter app designed for cryptocurrency enthusiasts. It provides a comprehensive platform to explore, learn, and stay updated with the crypto world.
 
